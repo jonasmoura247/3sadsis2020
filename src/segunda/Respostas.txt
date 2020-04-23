@@ -1,0 +1,3 @@
+1) Encapasulamento é uma forma de proteger e criar restrições, impedindo modificações diretas dentro do codigo para assim manter um padrão e uma melhor otimização do mesmo.
+
+2)Os metodos modificadores promovem uma retulização do codigo pois é possivel fazer alterações diretamente nos metodos sem afetar a estrutura do código, se existir um calculo de media por exemplo, não sera necessario criar-lo novamente para calcular uma segunda media, basta apenas usar os metodos modificadores para mudar os valores necessarios para a nova media.
